@@ -2,8 +2,10 @@
 
 [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index) is a formula to determine the similarity between two sets.
 
-
 ![](formula.svg)
+
+We get the intersection between two sets and divide by his union, this will give a number between 0-1, the good score for your problem is up to you to.
+
 
 ### Simple example
 
