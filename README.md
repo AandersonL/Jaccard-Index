@@ -4,7 +4,7 @@
 
 ![](formula.svg)
 
-We get the intersection between two sets and divide by his union, this will give a number between 0-1, the good score for your problem is up to you to.
+We get the intersection between two sets and divide by his union, this will give a number between 0-1, the good score for your problem is up to you.
 
 
 ### Simple example
